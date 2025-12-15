@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="tel:+9779866142701">
-    <img src="https://img.shields.io/badge/Phone-+977--9866142701-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
 </p>
 
